@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_cheeseburger.mk
+    $(LOCAL_DIR)/potato_cheeseburger.mk
